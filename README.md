@@ -1,2 +1,6 @@
-# Trabalho-Eletronica
-Trabalho de arduino implementando um semáforo
+# Trabalho-Eletronica - USP
+Projeto desenvolvido para Eletrônica.
+
+
+Componentes
+  
