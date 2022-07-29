@@ -17,7 +17,7 @@ Construção de um seáforo com ajuda do arduino esp32.
 
 * **Resistores**: são os que complementam o circuito de para limitar a corrente e impedindo que a corrente do circuito ultrapasse os valores limites dos componentes e assim queimem.(BOOOOM!)
 
-* **Leds**: Nos mostra um nimi semáforo a placa funcionando.
+* **Leds**: Nos mostra um projeto de semáforo juntamente com Esp32.
 
 ## Imagem do circuito
 
