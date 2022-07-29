@@ -1,14 +1,14 @@
 # Trabalho Eletrônica - USP
-Desenvolvendo um semáforo com arduino esp32
+Desenvolvendo um semáforo com arduino Esp32
 
 ## Instruções:
 
-Construção de um seáforo com ajuda do arduino esp32. 
+Construção de um semáforo com ajuda do arduino Esp32. 
 
 ## Lista dos componentes:
 | Quantidade | Componentes        | Valor R$  |
 |------------|--------------------|---------- |
-| 1          | esp32              | R$ 72,00 |
+| 1          | Esp32              | R$ 72,00 |
 | 3          | Leds (verde, amarelo, vermeho) | R$ 1,50|
 | 1          | Jumper preto       | R$ 1,00  |
 | **Total**  |                    |  R$ 74,50 |
@@ -20,6 +20,10 @@ Construção de um seáforo com ajuda do arduino esp32.
 * **Leds**: Nos mostra um nimi semáforo a placa funcionando.
 
 ## Imagem do circuito
+
+## Imagem programação utilizando software Arduino IDE
+
+
 
 ## Link do circuito no Falstad:
 link
