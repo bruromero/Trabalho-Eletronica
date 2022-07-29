@@ -8,9 +8,9 @@ Construção de um seáforo com ajuda do arduino esp32.
 ## Lista dos componentes:
 | Quantidade | Componentes        | Valor R$  |
 |------------|--------------------|---------- |
-| 1          | esp32              | [R$ 72,00 |
-| 3          | Leds (verde, amarelo, vermeho) | [R$ 1,50]|
-| 1          | Jumper preto       | [R$ 1,00  |
+| 1          | esp32              | R$ 72,00 |
+| 3          | Leds (verde, amarelo, vermeho) | R$ 1,50|
+| 1          | Jumper preto       | R$ 1,00  |
 | **Total**  |                    |  R$ 74,50 |
 
 ## Os componentes
