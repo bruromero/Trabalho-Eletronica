@@ -1,4 +1,4 @@
-# Trabalho-Eletronica - USP
+# Trabalho Eletrônica - USP
 Desenvolvendo um semáforo com arduino esp32
 
 ## Instruções:
